@@ -83,7 +83,7 @@ Everything you need to start is:
 
 ## Demo
 
-http://i.imgur.com/YCDiUQ3.png
+[![Demo jquery-nextform alpha](http://i.imgur.com/YCDiUQ3.png)](http://imgur.com/a/9RmR5) 
 
 
 ## Bug Reports & Feature Requests
