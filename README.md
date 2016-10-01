@@ -12,7 +12,7 @@ Everything you need to start is:
 1. Include **jQuery** and **custom.js** in your HTML code.
 
 ```html
-</!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <title></title>
@@ -83,7 +83,7 @@ Everything you need to start is:
 
 ## Demo
 
-[![Demo jquery-nextform alpha](http://imgur.com/YCDiUQ3](http://imgur.com/YCDiUQ3)
+http://i.imgur.com/YCDiUQ3.png
 
 
 ## Bug Reports & Feature Requests
