@@ -1,11 +1,11 @@
-# jquery-nextform
+# jquery-circle
 
-A simple form action contain previous,next and submit button.
-Inspiration from [Jquery-Steps](https://github.com/rstaib/jquery-steps).
+jQuery Plugin to draw a cirlce just like a progress bar:
+Inspiration from [jquery-circle-progress](https://github.com/kottenator/jquery-circle-progress).
 
 ## Getting Started
 
-**jQuery-nextform** is a lightweight UI component written for **jQuery**.
+**jQuery-Circle** is a lightweight UI component written for **jQuery**.
 
 Everything you need to start is:
 
@@ -90,10 +90,10 @@ Everything you need to start is:
 
 You can help by reporting bugs, suggesting features, reviewing feature specifications or just by sharing your opinion.
 
-Use [GitHub Issues](https://github.com/fido93/jquery-nextform/issues) for all of that.
+Use [GitHub Issues](https://github.com/fido93/jquery-circle/issues) for all of that.
 
 
 
 ## License
 
-Copyright (c) 2016 FidoUnity. See [LICENSE](https://github.com/fido93/jquery-nextform/blob/master/LICENSE) for more details.
+Copyright (c) 2016 FidoUnity. See [LICENSE](https://github.com/fido93/jquery-circle/blob/master/LICENSE) for more details.
